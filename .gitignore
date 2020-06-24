@@ -1,0 +1,96 @@
+# Prerequisites
+*.d
+*.atsuo
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+*.iss
+*.mk
+*.lss
+*.iss
+*.srec
+*.gch
+*.pch
+*.cproj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+.so.
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+.i86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+.mod
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+GccApplication1/.vs/GccApplication1/v14/.atsuo
+GccApplication1/GccApplication1/Debug/Makefile
+GccApplication1/.vs/GccApplication1/v14/.atsuo
+BridgeApp/out/production/BridgeApp/WebSocketClient.class
+BridgeApp/out/production/BridgeApp/DbConnectionImpl.class
+GccApplication1/.vs/GccApplication1/v14/.atsuo
+GccApplication1/.vs/GccApplication1/v14/.atsuo
+GccApplication1/.vs/GccApplication1/v14/.atsuo
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/.suo
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/Browse.VC.db
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/1554f1336bb578fa/LORAUPLINK.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/2a17f754546590d0/TEST.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/38a92bb9120bfc45/SOUND.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/5601c8924daf9f16/DATAPACKETHANDLER.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/561992924dc3d535/DATAPACKETHANDLER.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/644c585214e7c233/CONTROLLER.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/81efb39dda266f6e/SOUND.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/8488e1a392d7e0c8/SERVO.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/95ec770f1251f674/TEMPERATURE_HUMIDITY.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/bb0e079cd83ff90b/SERVO.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/bf3cb6423999a650/CO2.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/AutoPCH/fbaa7819c5a621e5/TEMPERATURE_HUMIDITY.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/ipch/ee48b41370d88b5e.ipch
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/TestStore/0/000.testlog
+EmbeddedTesting/UnitTestingEmbedded/.vs/UnitTestingEmbedded/v16/TestStore/0/testlog.manifest
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/CL.command.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/CL.write.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/link.command.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/link.read.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/link.write.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/CL.read.1.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/UnitTestingEmbedded.lastbuildstate
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/UnitTestingEmbedded.read.1u.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTest.9255260c.tlog/UnitTestingEmbedded.write.1u.tlog
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTestingEmbedded.Build.CppClean.log
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTestingEmbedded.log
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTestingEmbedded.exe.gta.testdurations
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTestingEmbedded.vcxproj.CopyComplete
+EmbeddedTesting/UnitTestingEmbedded/Debug/UnitTestingEmbedded.vcxproj.FileListAbsolute.txt
+EmbeddedTesting/UnitTestingEmbedded/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3/license (MIT).txt
